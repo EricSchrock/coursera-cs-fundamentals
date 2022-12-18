@@ -1,3 +1,6 @@
 **/.objs/*
 **/main
 **/test
+
+c1_pa2/ImageTransform
+c1_pa2/out-*.png
